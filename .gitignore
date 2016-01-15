@@ -1,0 +1,41 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+/Examples/CC3200-I2CSample/Debug
+/Examples/CC3200-I2CSample/Release
+/Examples/CC3200-I2CSample/.launches
+/Examples/PICkit 3 Debug Express Lessons/01_Hello_LED/01 Hello LED.X/build
+/Examples/PICkit 3 Debug Express Lessons/01_Hello_LED/01 Hello LED.X/dist
+/Examples/PICkit 3 Debug Express Lessons/01_Hello_LED/01 Hello LED.X/funclist
+/Examples/PICkit 3 Debug Express Lessons/02_Blink_LED/02 Blink LED.X/build
+/Examples/PICkit 3 Debug Express Lessons/02_Blink_LED/02 Blink LED.X/dist
+/Examples/PICkit 3 Debug Express Lessons/02_Blink_LED/02 Blink LED.X/funclist
+/Examples/PICkit 3 Debug Express Lessons/03_Rotate_LED/03 Rotate LED.X/build
+/Examples/PICkit 3 Debug Express Lessons/03_Rotate_LED/03 Rotate LED.X/dist
+/Examples/PICkit 3 Debug Express Lessons/03_Rotate_LED/03 Rotate LED.X/funclist
